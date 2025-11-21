@@ -242,30 +242,4 @@ Configure in `lib/core/services/image_service.dart`:
 
 ## 🐛 Known Issues
 
-None at this time. Please report issues on GitHub.
-
-## 🔄 Future Enhancements
-
-- [ ] Search functionality
-- [ ] Favorites/Bookmarks
-- [ ] Filter by type/generation
-- [ ] Dark mode
-- [ ] Localization (i18n)
-- [ ] Background sync
-- [ ] Cache size management
-- [ ] Analytics integration
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- [PokéAPI](https://pokeapi.co/) for the comprehensive Pokémon data
-- Flutter team for the amazing framework
-- Open source community for the excellent packages
-
----
-
-**Built with ❤️ using Flutter**
-
+- When running from Android Studio, the app may get stuck during launch on some devices. If this occurs, kill the app and restart it. This appears to be device-specific.
